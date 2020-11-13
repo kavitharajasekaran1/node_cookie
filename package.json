@@ -1,0 +1,17 @@
+{
+  "name": "nodecookie",
+  "version": "1.0.0",
+  "description": "node cookie",
+  "main": "app",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kavitha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
